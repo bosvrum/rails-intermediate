@@ -25,4 +25,5 @@ end
 
 gem 'monban', '~> 0.2.1'
 gem 'monban-generators', '~> 0.0.4'
+gem 'paperclip', '~> 4.3', '>= 4.3.5'
 
